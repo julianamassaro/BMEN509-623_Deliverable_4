@@ -1,6 +1,6 @@
 # BMEN 509/623 — Deliverable 4: Magnetic Resonance Imaging
 
-## 📅 Due Date: April 6, 2026
+## 📅 Due Date: March 30, 2026
 
 ## Overview
 
